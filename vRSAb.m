@@ -1,4 +1,4 @@
-function vbRSA_boot(directroot,betaroot,designroot, contrastroot,outroot)
+function vRSAb(directroot,betaroot,designroot, contrastroot,outroot)
 %last update - 11-28-22 7:40am - STG (resized b_dist)
 
 
