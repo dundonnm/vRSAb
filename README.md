@@ -18,6 +18,14 @@ Place a text file for each run. Here there are six runs.
 Also place a design_good.txt file that specifies the design matrix concatenated to cover all runs
 ![vRSAb2](https://github.com/dundonnm/vRSAb/assets/39175662/425d6a5b-da6b-43ce-8e90-7528ae99b991)
 
+## Run the programme  
+In MATLAB, navigate to parent directory  
+Then in command-line run:  
+vRSAb(data_subdir_identifier,data_file_identifier,design_file_identifier,contrast_identifier,output_dir)  
+For e.g., in the above example, to output data to directory "test", run:
+vRSAb('bd2','Precentral_L','design','contrast','test')
+
+
 ## Citation
 For the general logic of variational RSA please cite:  
 Friston, K. J., Diedrichsen, J., Holmes, E., & Zeidman, P. (2019). Variational representational similarity analysis. _NeuroImage_, 201, 115986.
