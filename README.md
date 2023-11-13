@@ -2,8 +2,8 @@
 SPM functions in MATLAB to perform variational representation similarity analysis using bootstrapped nulls
 
 ## Data structure
-Place a contrast file (contrast.txt) and the vRSAb.m file in a parent directory
-Then place subject-specific data in different sub-directories
+Place a contrast file (contrast.txt) and the vRSAb.m file in a parent directory  
+Then place subject-specific data in different sub-directories  
 ![vRSAb1](https://github.com/dundonnm/vRSAb/assets/39175662/587bbfaa-585c-47a3-b67d-2e4fda29d5e6)
 
 ## Contrast file
