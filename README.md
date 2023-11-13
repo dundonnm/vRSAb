@@ -27,7 +27,7 @@ vRSAb('bd2','Precentral_L','design','contrast','test')
 
 
 ## Citation
-For the general logic of variational RSA please cite:  
+If using variational RSA please cite:  
 Friston, K. J., Diedrichsen, J., Holmes, E., & Zeidman, P. (2019). Variational representational similarity analysis. _NeuroImage_, 201, 115986.
 
 For our bootstrapped extension, please also cite:  
